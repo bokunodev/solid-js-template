@@ -22,7 +22,7 @@
     "postcss-nested": "^6.0.1",
     "postcss-preset-env": "^7.8.3",
     "prettier": "^2.8.7",
-    "solid-js": "^1.7.0",
+    "solid-js": "^1.7.1",
     "stylelint": "^14.16.1",
     "stylelint-config-clean-order": "^2.3.1",
     "stylelint-config-standard": "^29.0.0",
